@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285172446692'] 
+global.owner = ['6283144670363'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285172446692']
+global.kontak = ['6283144670363']
 
 //  INFO BOT 
-global.naown = 'leviXD'
-global.noown = '6285172446692'
-global.namebot = 'VICTOR BOT'
+global.naown = 'RenzXD'
+global.noown = '6283144670363'
+global.namebot = 'RENZ BOT'
 global.nobot = '6282131369002'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.github = 'https://github.com/mytobot'
-global.gc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
-global.web = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = '-'
+global.github = 'https://github.com/RenzGntng'
+global.gc = '-'
+global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = '-'
 
 // PAYMANT 
-global.dana = '085172446692'
-global.pulsa = '085172446692'
-global.gopay = '085172446692'
-global.shopay = '085172446692'
-global.ovo = '085172446692'
+global.dana = '085717497745'
+global.pulsa = '083144670363'
+global.gopay = '083144670363'
+global.shopay = '-'
+global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ Renz𝐁𝐎𝐓'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙡𝙚𝙫𝙞𝙓𝘿'
-global.wm3 = '⫹⫺ 𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓 | BOT WHATSAPP MD'
+global.wm3 = '⫹⫺ Renz𝐁𝐎𝐓 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
