@@ -5,7 +5,7 @@
 // NUMBER
 global.owner = ['6283144670363'] 
 global.mods = [] 
-global.prems = [] 
+global.prems = ['6283144670363'] 
 global.kontak = ['6283144670363']
 
 //  INFO BOT 
@@ -30,12 +30,12 @@ global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/dc47210dda6572b70aee1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/dc47210dda6572b70aee1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/FKdWmfcD/Haruka.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/FKdWmfcD/Haruka.jpg' //ini juga ganti 
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
 global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.ppm = 'https://telegra.ph/file/dc47210dda6572b70aee1.jpg'  // bagian atas all command
+global.ppm = 'https://i.postimg.cc/FKdWmfcD/Haruka.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
