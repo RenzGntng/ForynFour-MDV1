@@ -12,7 +12,7 @@ global.kontak = ['6283144670363']
 global.naown = 'RenzXD'
 global.noown = '6283144670363'
 global.namebot = 'RENZ BOT'
-global.nobot = '6282131369002'
+global.nobot = '6285878869718'
 
 //  URL SOSMED
 global.instagram = '-'
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'VICTOR BOT'
-global.author = 'By leviXD'
+global.packname = 'RENZ BOT'
+global.author = 'By RenzXD'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
